@@ -1,5 +1,18 @@
 # Brokenegg.MetaDate
-Standarize the date on your projects
+
+<a href="https://github.com/brokenegg-io/Brokenegg.MetaDate/graphs/contributors" alt="Contributors">
+    <img src="https://img.shields.io/github/contributors/brokenegg-io/Brokenegg.MetaDate" />
+</a>
+
+<a href="https://circleci.com/gh/badges/daily-tests">
+    <img src="https://img.shields.io/circleci/project/github/badges/daily-tests?label=service%20tests" alt="service-test status">
+</a>
+
+ <a href="https://coveralls.io/github/badges/shields">
+        <img src="https://img.shields.io/coveralls/github/badges/shields"
+            alt="coverage"></a>
+            
+Standarize the date across all your projects using this library. Library created for applications who needs to have a precise date and time on different timezones and locations.
 
 
 ## Contributing
