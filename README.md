@@ -1,8 +1,14 @@
 # Brokenegg.MetaDate
 
-<a href="https://github.com/brokenegg-io/Brokenegg.MetaDate/graphs/contributors" alt="Contributors">
-    <img src="https://img.shields.io/github/contributors/brokenegg-io/Brokenegg.MetaDate" />
-</a>
+
+![GitHub License](https://img.shields.io/github/license/brokenegg-io/Brokenegg.MetaDate)
+[![Version](https://img.shields.io/badge/version-0.0.1-yellow.svg)](https://semver.org)
+![Actions](https://github.com/brokenegg-io/Brokenegg.MetaDate/actions/workflows/ci.yml/badge.svg)
+![Actions](https://github.com/brokenegg-io/Brokenegg.MetaDate/actions/workflows/release.yml/badge.svg)
+![GitHub branch checks state](https://img.shields.io/github/checks-status/brokenegg-io/Brokenegg.MetaDate/dev)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/brokenegg-io/Brokenegg.MetaDate)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/Brokenegg.MetaDate.svg)](https://www.nuget.org/packages/Brokenegg.MetaDate/)
+[![GitHub Contributors](https://img.shields.io/github/contributors/brokenegg-io/Brokenegg.MetaDate)](https://github.com/brokenegg-io/Brokenegg.MetaDate/graphs/contributors)
             
 Standarize the date across all your projects using this library. Library created for applications who needs to have a precise date and time on different timezones and locations.
 
