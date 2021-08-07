@@ -69,6 +69,8 @@ var utc = uDate.ToUtcDateTime();
 
 `utc`  should be the date 26/10/2021 00:25
 
+We have prepared the repo [Brokenegg.MetaDate.Example](https://github.com/brokenegg-io/Brokenegg.MetaDate.Example) which contains some usefull examples.
+
 ## Contributing
 
 If you didn't find your timezone listed on the xml file at `Brokenegg.MetaDate.timezones.xml` please open an issue or set up a pull request to the main branch and we will gladly integrate it. Remember to use `_` to separate each word if your timezone has more than one word.
