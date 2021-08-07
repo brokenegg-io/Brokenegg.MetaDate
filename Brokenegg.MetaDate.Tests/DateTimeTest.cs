@@ -1,4 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 
 namespace Brokenegg.MetaDate.Tests
 {
@@ -10,10 +11,12 @@ namespace Brokenegg.MetaDate.Tests
         {
             USettings.Locale = ULocale.FindLocale(ELocales.MANAUS);
 
-            UDate date = new UDate();
-            date.
+            var date = DateTime.Now;
 
-            Assert.IsTrue(true);
+            var dateUtc = new UDate(date).ToUtcDateTime();
+            var dateLocal = new UDate(date).ToLocalDateTime();
+
+            Assert.IsTrue((dateUtc - dateLocal).Hours == 3);
         }
     }
 }

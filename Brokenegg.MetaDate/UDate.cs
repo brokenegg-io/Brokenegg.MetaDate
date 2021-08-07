@@ -6,7 +6,7 @@ namespace Brokenegg.MetaDate
     {
         private ULocale Locale => USettings.Locale ?? ULocale.FindLocale(ELocales.COORDINATED_UNIVERSAL_TIME);
         private DateTime _dateTime { get; set; }
-        public UDate() => this._dateTime = DateTime.MinValue;
+        public UDate() => this._dateTime = DateTime.Now;
         public UDate(DateTime dateTime, ULocale locale = null)
         {
             this._dateTime = ToUtcDateTime(dateTime);
