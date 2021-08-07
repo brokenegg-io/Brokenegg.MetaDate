@@ -29,8 +29,69 @@ using System.IO;
 using Brokenegg.MetaDate;
 ```
 
+### Setting global Locale 
+
+Setting global Time Zone as `Manaus Time Zone (UTC-4)`
+
+```csharp
+USettings.Locale = ULocale.FindLocale(ELocales.MANAUS);
+```
+
+Converting date local to UTC (back and forth)
+
+```csharp
+var date = DateTime.ParseExact("25/10/2021 20:25", "dd/MM/yyyy HH:mm", null);
+
+var uDate = new UDate(date);
+            
+var local =  uDate.ToLocalDateTime();
+var utc = uDate.ToUtcDateTime();
+```
+
+`local` should be the date 25/10/2021 20:25
+
+`utc`  should be the date 26/10/2021 00:25
+
+### Using local as on an each case basis
+
+You can use different locales for each date you want, instead of using a global setting, as shown bellow:
+
+```csharp
+var date = DateTime.ParseExact("25/10/2021 20:25", "dd/MM/yyyy HH:mm", null);
+
+var uDate = new UDate(date, ULocale.FindLocale(ELocales.MANAUS));
+            
+var local =  uDate.ToLocalDateTime();
+var utc = uDate.ToUtcDateTime();
+```
+
+`local` should be the date 25/10/2021 20:25
+
+`utc`  should be the date 26/10/2021 00:25
+
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+If you didn't find your timezone listed on the xml file at `Brokenegg.MetaDate.timezones.xml` please open an issue or set up a pull request to the main branch and we will gladly integrate it. Remember to use `_` to separate each word if your timezone has more than one word.
+Example of how the timezones is structured:
+
+```xml
+<locales>
+    <locale>
+        <name>MANAUS</name>
+        <hours>-4</hours>
+        <minutes>0</minutes>
+    </locale>
+<locales>    
+```
+
+And add the enum for your Timezone on the enum `Brokenegg.MetaDate.ELocales` :
+
+```csharp
+public enum ELocales
+{
+   MANAUS,
+}
+````
 
 Please make sure to update tests as appropriate.
 
