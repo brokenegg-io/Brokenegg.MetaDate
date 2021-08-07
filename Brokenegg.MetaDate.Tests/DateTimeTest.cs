@@ -16,7 +16,7 @@ namespace Brokenegg.MetaDate.Tests
             var dateUtc = new UDate(date).ToUtcDateTime();
             var dateLocal = new UDate(date).ToLocalDateTime();
 
-            Assert.IsTrue((dateUtc - dateLocal).Hours == 3);
+            Assert.IsTrue((dateUtc - dateLocal).Hours == 4);
         }
     }
 }

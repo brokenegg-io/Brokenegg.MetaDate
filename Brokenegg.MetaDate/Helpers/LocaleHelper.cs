@@ -8,6 +8,6 @@ namespace Brokenegg.MetaDate.Helpers
 {
     public class LocaleHelper
     {
-        public static List<ULocale> GetAllLocales() => ArchiveHelper.ReadXmlResource<ULocale>("timezones.xml", "locales");
+        public static List<ULocale> GetAllLocales() => ArchiveHelper.ReadXmlResource<ULocales>("timezones.xml", "locales")?.Locale;
     }
 }

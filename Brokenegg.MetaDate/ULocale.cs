@@ -7,7 +7,7 @@ using System.Xml.Serialization;
 
 namespace Brokenegg.MetaDate
 {
-    [XmlRoot("locales")]
+    [XmlRoot(ElementName = "locales")]
     public class ULocale
     {
         [XmlElement("name")]

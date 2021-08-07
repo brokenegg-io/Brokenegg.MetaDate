@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <locales>
     <locale>
         <name>COORDINATED_UNIVERSAL_TIME</name>
@@ -7,682 +6,682 @@
     </locale>
     <locale>
         <name>ABU_DHABI</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>ADELAIDE</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>ALASKA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>AMMAN</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>AMSTERDAM</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>ARIZONA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>ASTANA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>ASUNCION</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>ATHENS</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>ATLANTIC_TIME_CANADA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>AUCKLAND</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>AZORES</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>BAGHDAD</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>BAKU</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>BANGKOK</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>BEIJING</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>BEIRUT</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>BELGRADE</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>BERLIN</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>BERN</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>BOGOTA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>BRASILIA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>-3</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>BRATISLAVA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>BRISBANE</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>BRUSSELS</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>BUCHAREST</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>BUDAPEST</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>BUENOS_AIRES</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>CAIRO</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>CANBERRA_MELBOURNE_SYDNEY</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>CAPE_VERDE_ISLANDS</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>CARACAS</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>CAYENNE</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>CENTRAL_AMERICA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>CENTRAL_TIME_US_AND_CANADA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>CHENNAI</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>CHIHUAHUA_LA_PAZ_MAZATLAN</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>CHONGQING</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>COPENHAGEN</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>DARWIN</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>DHAKA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>EASTERN_TIME_US_AND_CANADA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>EKATERINBURG</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>FIJI_ISLANDS</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>GEORGETOWN</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>GREENLAND</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>GUADALAJARA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>MEXICO_CITY</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>MONTERREY</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>GUAM_PORT_MORESBY</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>HANOI</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>HARARE</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>HAWAII</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>HELSINKI</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>HOBART</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>HONG_KONG</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>INDIANA_EAST</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>INTERNATIONAL_DATE_LINE_WEST</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>IRKUTS</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>ISLAMABAD_KARACHI</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>ISTANBUL</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>JAKARTA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>JERUSALEM</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>KABUL</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>KATHMANDU</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>KOLKATA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>KRASNOYARSK</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>KUALA_LUMPUR_SINGAPORE</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>KUWAIT_RIYADH</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>KYIV</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>LA_PAZ</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>LIMA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>LJUBLJANA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>MADAGAN</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>MADRID</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>MANAUS</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>-4</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>MARSHALL_ISLANDS</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>MID_ATLANTIC</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>MIDWAY_ISLAND_SAMOA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>MINSK</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>MONTEVIDEO</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>MOSCOW</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>MOUNTAIN_TIME_US_AND_CANADA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>MUMBAI</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>MUSCAT</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>NAIROBI</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>NEW_CALENDONIA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>NEW_DELHI</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>NEWFOUNDLAND_AND_LABRADOR</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>NOVOSIBIRSK</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>NUKU_ALOFA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>OSAKA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>PACIFIC_TIME_US_AND_CANADA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>PARIS</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>PERTH</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>PETROPAVLOVSK_KACHATSKY</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>PORT_LOUIS</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>PRAGUE</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>PRETORIA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>QUITO</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>RANGOON</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>RIGA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>ROME</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>SAN_JUAN</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>SANTIAGO</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>SAPPORO</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>SAR_URUMQI</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>SARAJEVO</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>SASKATCHEWAN</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>SEOUL</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>SKOPJE</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>SOFIA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>SOLOMON_ISLANDS</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>SRI_JAYAWARDENEPURA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>STOCKHOLM</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>STPETERSBURG</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>TAIPEI</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>TALLINN</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>TASHKENT</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>TBILISI</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>TEHRAN</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>TIJUANA_BAJA_CALFORNIA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>TOKYO</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>ULAANBAATAR</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>VIENNA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>VILNIUS</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>VLADIVOSTOK</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>VOLGOGRAD</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>WARSAW</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>WELLINGTON</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>WEST_CENTRAL_AFRICA</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>WINDHOEK</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>YAKUTSK</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>YANGON</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>YEREVAN</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
     <locale>
         <name>ZAGREB</name>
-        <hours></hours>
-        <minutes></minutes>
+        <hours>0</hours>
+        <minutes>0</minutes>
     </locale>
 </locales>
