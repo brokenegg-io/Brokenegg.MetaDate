@@ -8,6 +8,11 @@ namespace Brokenegg.MetaDate.Tests
         [TestMethod]
         public void TestDateConversion()
         {
+            USettings.Locale = ULocale.FindLocale(ELocales.MANAUS);
+
+            UDate date = new UDate();
+            date.
+
             Assert.IsTrue(true);
         }
     }

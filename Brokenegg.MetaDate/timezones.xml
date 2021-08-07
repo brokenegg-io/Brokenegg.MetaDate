@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locales>
     <locale>
+        <name>COORDINATED_UNIVERSAL_TIME</name>
+        <hours>0</hours>
+        <minutes>0</minutes>
+    </locale>
+    <locale>
         <name>ABU_DHABI</name>
         <hours></hours>
         <minutes></minutes>

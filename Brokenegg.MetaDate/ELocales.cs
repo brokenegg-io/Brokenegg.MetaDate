@@ -6,6 +6,7 @@ namespace Brokenegg.MetaDate
 {
     public enum ELocales
     {
+        COORDINATED_UNIVERSAL_TIME,
         ABU_DHABI,
         ADELAIDE,
         ALASKA,
