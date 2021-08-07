@@ -12,7 +12,21 @@ namespace Brokenegg.MetaDate.Tests
         public void FindLocale()
         {
             var locale = ULocale.FindLocale("MANAUS");
-            Assert.IsTrue(true);
+            Assert.IsNotNull(locale);
+        }
+
+        [TestMethod]
+        public void FindLocaleEnum()
+        {
+            var locale = ULocale.FindLocale(ELocales.MANAUS);
+            Assert.IsNotNull(locale);
+        }
+
+        [TestMethod]
+        public void FindWrongLocale()
+        {
+            var locale = ULocale.FindLocale("AMESTRIS");
+            Assert.IsNull(locale);
         }
     }
 }

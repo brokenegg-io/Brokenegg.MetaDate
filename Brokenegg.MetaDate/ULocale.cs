@@ -18,7 +18,9 @@ namespace Brokenegg.MetaDate
         public int Minutes { get; set; }
 
         public static List<ULocale> GetLocales() => LocaleHelper.GetAllLocales();
-        public static ULocale FindLocale(string name) =>
+        public static ULocale FindLocale(string name) => FindByName(name);
+        public static ULocale FindLocale(ELocales locale) => FindByName(locale.ToString());
+        private static ULocale FindByName(string name) =>
             LocaleHelper.GetAllLocales()
             .Where(p => p.Name.Equals(name.ToUpper()))
             .FirstOrDefault();
