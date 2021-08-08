@@ -12,6 +12,8 @@
             
 Standarize the date across all your projects using this library. Library created for applications who needs to have a precise date and time on different timezones and locations.
 
+## Quick links
+
 * [Installation](#installation)
 * [Usage](#usage)
     * [Setting up global Locale](#setting-up-global-locale)  
