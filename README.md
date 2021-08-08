@@ -5,7 +5,7 @@
 [![Version](https://img.shields.io/badge/version-0.0.1.RC-red.svg)](https://semver.org)
 ![Actions](https://github.com/brokenegg-io/Brokenegg.MetaDate/actions/workflows/ci.yml/badge.svg)
 ![Actions](https://github.com/brokenegg-io/Brokenegg.MetaDate/actions/workflows/release.yml/badge.svg)
-![GitHub branch checks state](https://img.shields.io/github/checks-status/brokenegg-io/Brokenegg.MetaDate/dev)
+![GitHub branch checks state](https://img.shields.io/github/checks-status/brokenegg-io/Brokenegg.MetaDate/main)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/brokenegg-io/Brokenegg.MetaDate)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/Brokenegg.MetaDate.svg)](https://www.nuget.org/packages/Brokenegg.MetaDate/)
 [![GitHub Contributors](https://img.shields.io/github/contributors/brokenegg-io/Brokenegg.MetaDate)](https://github.com/brokenegg-io/Brokenegg.MetaDate/graphs/contributors)
