@@ -12,6 +12,13 @@
             
 Standarize the date across all your projects using this library. Library created for applications who needs to have a precise date and time on different timezones and locations.
 
+* [Installation](#installation)
+* [Usage](#usage)
+    * [Setting up global Locale](#setting-up-global-locale)  
+    * [Using setting on each case basis](#using-setting-on-each-case-basis)
+* [Contributing](#contributing)
+* [License](#license)
+
 ## Installation
 
 Our profile on the NuGet library [brokenegg.io](https://www.nuget.org/profiles/brokenegg.io)
@@ -29,7 +36,7 @@ using System.IO;
 using Brokenegg.MetaDate;
 ```
 
-### Setting global Locale 
+### Setting up global Locale 
 
 Setting global Time Zone as `Manaus Time Zone (UTC-4)`
 
@@ -52,7 +59,7 @@ var utc = uDate.ToUtcDateTime();
 
 `utc`  should be the date 26/10/2021 00:25
 
-### Using local as on an each case basis
+### Using setting on each case basis
 
 You can use different locales for each date you want, instead of using a global setting, as shown bellow:
 
