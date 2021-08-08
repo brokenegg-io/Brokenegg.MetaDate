@@ -2,7 +2,7 @@
 
 
 ![GitHub License](https://img.shields.io/github/license/brokenegg-io/Brokenegg.MetaDate)
-[![Version](https://img.shields.io/badge/version-0.0.1-yellow.svg)](https://semver.org)
+[![Version](https://img.shields.io/badge/version-0.0.1.RC-red.svg)](https://semver.org)
 ![Actions](https://github.com/brokenegg-io/Brokenegg.MetaDate/actions/workflows/ci.yml/badge.svg)
 ![Actions](https://github.com/brokenegg-io/Brokenegg.MetaDate/actions/workflows/release.yml/badge.svg)
 ![GitHub branch checks state](https://img.shields.io/github/checks-status/brokenegg-io/Brokenegg.MetaDate/dev)
