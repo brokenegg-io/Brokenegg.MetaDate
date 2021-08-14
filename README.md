@@ -68,7 +68,7 @@ You can use different locales for each date you want, instead of using a global 
 ```csharp
 var date = DateTime.ParseExact("25/10/2021 20:25", "dd/MM/yyyy HH:mm", null);
 
-var uDate = new UDate(date, ULocale.FindLocale(ELocales.MANAUS));
+var uDate = new UDate(date, ELocales.MANAUS);
             
 var local =  uDate.ToLocalDateTime();
 var utc = uDate.ToUtcDateTime();
