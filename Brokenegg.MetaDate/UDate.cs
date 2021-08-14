@@ -13,6 +13,12 @@ namespace Brokenegg.MetaDate
             if (locale != null) USettings.Locale = locale;
         }
 
+        public UDate(DateTime dateTime, ELocales eLocales)
+        {
+            this._dateTime = ToUtcDateTime(dateTime);
+            USettings.Locale = ULocale.FindLocale(eLocales);
+        }
+
         /// <summary>
         /// Converts from local to UTC date
         /// </summary>
